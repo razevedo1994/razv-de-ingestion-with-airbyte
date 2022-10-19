@@ -4,3 +4,4 @@ DateTime==4.4
 faker-credit-score==0.3.0
 faker-vehicle==0.2.0
 faker_airtravel==0.4
+cryptography
